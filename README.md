@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [[**Development Learning Platform**]](https://html-css-project-puce.vercel.app (built with **HTML, CSS)/)
 
-- 🤝 I’m looking for help with [[**Interactive JavaScript Calculator**]](https://javascript-caculator.netlify.app— built with **HTML, CSS, JavaScript (DOM)**/)
+- 🤝 I’m looking for help with [[**Interactive JavaScript Calculator**]](https://javascript-caculator.netlify.app/ (built with **HTML, CSS, JavaScript (DOM)**/)
 
 - 👨‍💻 All of my projects are available at [(https://github.com/HussnainAshiq-5657)]((https://github.com/HussnainAshiq-5657))
 
