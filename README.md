@@ -32,7 +32,7 @@
 <a href="https://instagram.com/hussnainnaz56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussnainnaz56" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
@@ -46,13 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=HussnainAshiq-5657&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HussnainAshiq-5657/HussnainAshiq-5657/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HussnainAshiq-5657/HussnainAshiq-5657/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HussnainAshiq-5657/HussnainAshiq-5657/output/pacman-contribution-graph.svg">
-</picture>
+
 
