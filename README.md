@@ -39,8 +39,3 @@
   <img src="https://streak-stats.demolab.com?user=HussnainAshiq-5657&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussnainashiq-5657&show_icons=true&locale=en&layout=compact" alt="hussnainashiq-5657" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussnainashiq-5657&show_icons=true&locale=en" alt="hussnainashiq-5657" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussnainashiq-5657&" alt="hussnainashiq-5657" /></p>
