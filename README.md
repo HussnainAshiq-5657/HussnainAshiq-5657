@@ -31,6 +31,7 @@
 <a href="https://kaggle.com/hussnainnaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hussnainnaz" height="30" width="40" /></a>
 <a href="https://instagram.com/hussnainnaz56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussnainnaz56" height="30" width="40" /></a>
 </p>
+<br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
