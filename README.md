@@ -45,6 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
 </div>
+<br/>
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=HussnainAshiq-5657&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
