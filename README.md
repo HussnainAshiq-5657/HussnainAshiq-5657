@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Hussnain Ashiq</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Aspiring Mern Stack Developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0" >
 
