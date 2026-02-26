@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning ****React.js , NodeJS , ExpressJS , Mongodb ****
 
-- 👨‍💻 All of my projects are available at [(GitHub)]((https://github.com/HussnainAshiq-5657))
+- 👨‍💻 All of my projects are available at ((https://github.com/HussnainAshiq-5657))
 
-- 📝 I regularly write articles on [(LinkedIn)]((https://www.linkedin.com/in/hussnainnaz-dev))
+- 📝 I regularly write articles on ((https://www.linkedin.com/in/hussnainnaz-dev))
 
 - 💬 Ask me about ****React, JavaScript, Mern Stack Development****
 
