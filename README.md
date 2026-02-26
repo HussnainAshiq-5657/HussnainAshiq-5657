@@ -1,4 +1,3 @@
-![logo](https://github.com/HussnainAshiq-5657/HussnainAshiq-5657/blob/main/Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammed Hussnain Ashiq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
