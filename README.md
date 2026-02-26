@@ -6,23 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussnainashiq-5657&label=Profile%20views&color=0e75b6&style=flat" alt="hussnainashiq-5657" /> </p>
 
-- 🔭 I’m currently working on [[** Clone Project of Baroquee E-Commerce Frontend**]](https://baroquee-website.netlify.app/ (built with **HTML, CSS))
+- 🌱 I’m currently learning ****React.js , NodeJS , ExpressJS , Mongodb ****
 
-- 🌱 I’m currently learning ****React.js, Bootstrap, Tailwind CSS, MERN Stack****
+- 👨‍💻 All of my projects are available at [(GitHub)]((https://github.com/HussnainAshiq-5657))
 
-- 👯 I’m looking to collaborate on [[**Development Learning Platform**]](https://html-css-project-puce.vercel.app (built with **HTML, CSS)/)
+- 📝 I regularly write articles on [(LinkedIn)]((https://www.linkedin.com/in/hussnainnaz-dev))
 
-- 🤝 I’m looking for help with [[**Interactive JavaScript Calculator**]](https://javascript-caculator.netlify.app/ (built with **HTML, CSS, JavaScript (DOM)**/)
-
-- 👨‍💻 All of my projects are available at [(https://github.com/HussnainAshiq-5657)]((https://github.com/HussnainAshiq-5657))
-
-- 📝 I regularly write articles on [(https://www.linkedin.com/in/hussnainnaz-dev)]((https://www.linkedin.com/in/hussnainnaz-dev))
-
-- 💬 Ask me about ****React, JavaScript, GSAP (Animations), Frontend Development****
+- 💬 Ask me about ****React, JavaScript, Mern Stack Development****
 
 - 📫 How to reach me ****hussnainnaz18@gmail.com****
-
-- ⚡ Fun fact **I think I’m funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
