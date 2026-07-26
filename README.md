@@ -50,10 +50,7 @@ I'm **Muhammad Hussnain Ashiq**, a **Mid-Level DevOps Engineer** from 🇵🇰 P
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HussnainAshiq-5657&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussnainAshiq-5657&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HussnainAshiq-5657&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
@@ -61,10 +58,7 @@ I'm **Muhammad Hussnain Ashiq**, a **Mid-Level DevOps Engineer** from 🇵🇰 P
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HussnainAshiq-5657&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
+
 
 ---
 
