@@ -1,47 +1,108 @@
-<h1 align="center">Hi 👋, I'm Muhammed Hussnain Ashiq</h1>
-<h3 align="center">Aspiring Mern Stack Developer</h3><br/>
+<div align="center">
+  
+# Muhammad Hussnain Ashiq 👋
 
-<img align="right" alt="coding" width="300" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0" >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Engineer;DevOps+Automation)](https://git.io/typing-svg)
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussnainashiq-5657&label=Profile%20views&color=0e75b6&style=flat" alt="hussnainashiq-5657" /> </p>
+---
 
-- 🌱 I’m currently learning ****React.js , NodeJS , ExpressJS , Mongodb ****
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at ((https://github.com/HussnainAshiq-5657))
+I'm **Muhammad Hussnain Ashiq**, a **Mid-Level DevOps Engineer** from 🇵🇰 Pakistan, focused on building reliable **CI/CD pipelines**, **containerized deployments**, and **cloud infrastructure automation**.
 
-- 📝 I regularly write articles on ((https://www.linkedin.com/in/hussnainnaz-dev))
+- 🔭 Currently working on **CI/CD pipelines**, **container orchestration**, and **cloud infrastructure automation**
+- 🌱 Always learning about **Kubernetes, Terraform, and AWS best practices**
+- 👯 Looking to collaborate on **DevOps automation** and **infrastructure-as-code projects**
+- 💬 Ask me about **Docker, Kubernetes, Jenkins, CI/CD, Linux, and Cloud Infrastructure**
+- ⚡ Fun fact: I enjoy turning manual deployments into one-click automated pipelines
 
-- 💬 Ask me about ****React, JavaScript, Mern Stack Development****
+---
 
-- 📫 How to reach me ****hussnainnaz18@gmail.com****
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+### **Languages & Scripting**
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hussnainnaz-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hussnainnaz-dev" height="30" width="40" /></a>
-<a href="https://kaggle.com/hussnainnaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hussnainnaz" height="30" width="40" /></a>
-<a href="https://instagram.com/hussnainnaz56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussnainnaz56" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 </p>
-<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</p>
+
+### **Monitoring & Tools**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HussnainAshiq-5657&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussnainAshiq-5657&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
-<br/>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=HussnainAshiq-5657&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HussnainAshiq-5657&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
+---
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HussnainAshiq-5657&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
 
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HussnainAshiq-5657&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HussnainAshiq-5657/HussnainAshiq-5657/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnainnaz-dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HussnainAshiq56)
+[![Email](https://img.shields.io/badge/Email-hussnainnaz18@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussnainnaz18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HussnainAshiq-5657)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Automating today for a smoother tomorrow"
+
+![Profile Views](https://komarev.com/ghpvc/?username=HussnainAshiq-5657&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/HussnainAshiq-5657?label=Follow&style=social)](https://github.com/HussnainAshiq-5657)
+
+</div>
