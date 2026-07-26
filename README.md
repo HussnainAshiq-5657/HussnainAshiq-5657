@@ -10,13 +10,6 @@
 
 I'm **Muhammad Hussnain Ashiq**, a **Mid-Level DevOps Engineer** from 🇵🇰 Pakistan, focused on building reliable **CI/CD pipelines**, **containerized deployments**, and **cloud infrastructure automation**.
 
-- 🔭 Currently working on **CI/CD pipelines**, **container orchestration**, and **cloud infrastructure automation**
-- 🌱 Always learning about **Kubernetes, Terraform, and AWS best practices**
-- 👯 Looking to collaborate on **DevOps automation** and **infrastructure-as-code projects**
-- 💬 Ask me about **Docker, Kubernetes, Jenkins, CI/CD, Linux, and Cloud Infrastructure**
-- ⚡ Fun fact: I enjoy turning manual deployments into one-click automated pipelines
-Mid-Level DevOps Engineer from 🇵🇰 Pakistan, focused on building reliable CI/CD pipelines, containerized deployments, and cloud infrastructure automation.
-
 🔭 Currently working on CI/CD pipelines, container orchestration, and cloud infrastructure automation
 
 🌱 Always learning about Kubernetes, Terraform, and AWS best practices
