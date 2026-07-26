@@ -8,8 +8,6 @@
 
 ---
 
-## 🚀 About Me
-
 I'm **Muhammad Hussnain Ashiq**, a **Mid-Level DevOps Engineer** from 🇵🇰 Pakistan, focused on building reliable **CI/CD pipelines**, **containerized deployments**, and **cloud infrastructure automation**.
 
 - 🔭 Currently working on **CI/CD pipelines**, **container orchestration**, and **cloud infrastructure automation**
